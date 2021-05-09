@@ -1,4 +1,4 @@
-//no decorator required
+//no decorator required (@injectable not required)
 export class LoggingService {
 
 logStatusChange(status: string){
